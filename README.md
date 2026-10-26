@@ -1,10 +1,10 @@
 # Moj razvojni priručnik
 
-[Jedna rečenica: što je ovaj priručnik i čemu služi.]
+Ovaj priručnik služi kao prikaz svojeg prvog fakultetskog online projekta.
 
 ## Kome je namijenjen
 
-[Tko je čitatelj? Što već zna, a što ne zna?]
+Priručnik je namijenjen za osobe koje žele pratiti razvoj ovog projekta, i/ili za one koje žele znati točno kako izgleda moje osobno razvojno okruženje.
 
 ## Moje razvojno okruženje
 
@@ -22,7 +22,6 @@
 
 ## Autor i korištenje AI-a
 
-Priručnik piše [korisničko ime] u sklopu kolegija Akademsko i tehničko pisanje na Sveučilištu u Zadru, 2026./2027.
+Priručnik piše Andrija Blažević u sklopu kolegija Akademsko i tehničko pisanje na Sveučilištu u Zadru, 2026./2027.
 
-[Jeste li koristili AI i za što? Ako niste: „U ovoj verziji nisam koristio/la AI.”]
-dodaj ovaj tekst na kraj readme.md datoteke
+U ovoj verziji nisam koristio AI.
