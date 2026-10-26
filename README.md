@@ -12,7 +12,7 @@ Priručnik je namijenjen za osobe koje žele pratiti razvoj ovog projekta, i/ili
 |---|---|
 | Operacijski sustav | NixOS Zokor |
 | Uređivač koda | VSCodium 1.126 |
-| Terminal | bash |
+| Terminal | Sistematski Bash |
 | Git | git version 2.56.0 |
 | Python | Python 3.14.8 |
 
